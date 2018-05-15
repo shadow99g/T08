@@ -10,7 +10,7 @@
 <project name="ALGORITMOS_DE_NIVEL_1" default="default" basedir=".">
     <description>Builds, tests, and runs the project ALGORITMOS DE NIVEL 1.</description>
     <import file="nbproject/build-impl.xml"/>
-    <!--
+    <!-- para la demo git 
 
     There exist several targets which are by default empty and which can be 
     used for execution of your tasks. These targets are usually executed 
